@@ -1,2 +1,3 @@
 # Translator
-This application allows to translate text from English to Russian
+Это приложение позволяет переводить текст с англисйого на русский.
+В нем использована библиотека streamlit и готовая модель 
