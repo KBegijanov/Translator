@@ -4,4 +4,4 @@ transformers[pipeleine]
 pydantic[BaseModel]
 transformers[sentencepiece]
 transformers[torch]
-
+sacremoses
