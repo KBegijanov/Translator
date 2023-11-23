@@ -3,4 +3,5 @@ uvicorn
 transformers[pipeleine]
 pydantic[BaseModel]
 transformers[sentencepiece]
-torch
+transformers[torch]
+
